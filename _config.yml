@@ -1,11 +1,11 @@
 # Site settings
-title: Unikornis Száraztészta
-email: hello@szarazteszta.hu
-phone: +36-30-999-9999
+title: Unikornis Beton Studio
+email: lengyeltotimukouzem@gmail.com
+phone: +36 30 998 65 55
 
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://vestalux.github.io/teszta/" # the base hostname & protocol for your site
+url: "https://vestalux.github.io/beton/" # the base hostname & protocol for your site
 
 facebook_username: teszta
 github_username:
