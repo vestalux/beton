@@ -1,5 +1,5 @@
 # Site settings
-title: Unikornis Beton Studio
+title: Unikornis Műkő
 email: lengyeltotimukouzem@gmail.com
 phone: +36 30 998 65 55
 
@@ -7,7 +7,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://vestalux.github.io/beton/" # the base hostname & protocol for your site
 
-facebook_username: teszta
+facebook_username: muko
 github_username:
 logo: "img/logo.svg"
 ga:
